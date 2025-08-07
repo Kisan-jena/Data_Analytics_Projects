@@ -3,9 +3,6 @@
 ## About This Repository
 This repository contains a collection of data analysis projects created during my learning journey in data analytics. Each project demonstrates different aspects of data analysis, from data cleaning and preprocessing to exploratory data analysis and visualization.
 
-## What's in This Repository
-This repository showcases practical implementations of data analysis concepts and techniques using various tools and technologies. The projects cover different domains and datasets, providing hands-on experience with real-world data challenges.
-
 ## Projects Overview
 
 | Index | Project Name    | Description                                                                                                                          |
