@@ -8,7 +8,7 @@ This repository contains a collection of data analysis projects created during m
 | Index | Project Name    | Description                                                                                                                          |
 | ----- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 1     | Short_Project-1 | Data Cleaning and EDA using SQL - Analysis of laptop dataset with comprehensive data cleaning pipeline and exploratory data analysis |
-
+<!-- 
 ## Technologies Used
 - SQL
 - Data Cleaning Techniques
@@ -38,7 +38,7 @@ Each project is contained in its own folder with:
 - Source code/scripts
 - Dataset (if applicable)
 - Any additional documentation
-
+-->
 ## Future Projects
 This repository will continue to grow as I learn and implement more data analysis techniques and explore different domains and datasets.
 
